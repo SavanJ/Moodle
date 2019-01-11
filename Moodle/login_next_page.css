@@ -1,0 +1,30 @@
+#row1
+{
+    margin-top: 100px;
+    border: 1px solid brown;
+    border-top: 50px solid brown;
+    border-radius: 10px;
+}
+#col1
+{
+/*    height: 50px;*/
+/*    border: 1px solid brown;*/
+}
+#input1
+{
+    height: 50px;
+    box-shadow: 0px 0px 0px;
+    border: 1px solid brown;    
+    margin: 12px 0px;
+}
+#verify_button
+{
+    border: 1px solid brown;
+    height: 50px;
+    background-color: brown;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 700;
+    margin-top: 000px;
+    border-radius: 0px 0px 10px 10px;    
+}
